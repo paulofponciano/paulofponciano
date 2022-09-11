@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋</h1>
-<h3 align="left">I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.</h3>
+<h3 align="left">I'm a tech enthusiast who loves to learn about new things.</h3>
 
 - 🌱 I’m currently learning **Kubernetes and serverless architectures**
 
