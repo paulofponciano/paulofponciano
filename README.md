@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kubernetes and serverless architectures**
 
-- 📝 I regularly write articles on [https://medium.com/@paulofponciano](https://medium.com/@paulofponciano)
+- 📝 I regularly write articles on <a href="https://medium.com/@paulofponciano/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
