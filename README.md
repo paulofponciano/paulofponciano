@@ -1,9 +1,7 @@
 <h1 align="left">Hi there 👋</h1>
 <h3 align="left">I'm a tech enthusiast who loves to learn about new things.</h3>
 
-- 🌱 I’m currently learning **Kubernetes and serverless architectures**
-
-- 📝 I regularly write blog posts on <a href="https://medium.com/@paulofponciano/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+- 🌱 I’m currently learning **Kubernetes, serverless architectures and platform engineering**
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
