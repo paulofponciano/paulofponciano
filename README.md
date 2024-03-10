@@ -5,6 +5,12 @@
 
 - 🌱 I’m currently learning **Kubernetes, serverless architectures and platform engineering**
 
+<div style = "text-align: center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=paulofponciano&theme=onedark&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=paulofponciano&theme=onedark&hide_border=false"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulofponciano&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=false" alt="paulofponciano" />
+</div>
+
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
@@ -26,10 +32,43 @@
 <a href="https://www.crossplane.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/crossplane/artwork/blob/master/logo/icon.svg" alt="crossplane" width="40" height="40"/> </a>
 </p>
 
-<div style = "text-align: center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=paulofponciano&theme=onedark&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=paulofponciano&theme=onedark&hide_border=false"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulofponciano&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=false" alt="paulofponciano" />
+<h3>🎖 Badges</h3>
+
+<div class="row">
+    <div class="coluna">
+        <div style="display: flex"><br>
+          <a href='https://www.credly.com/badges/1d19edd7-6663-4286-9bb5-6f7a9cdc35aa?source=linked_in_profile'><img
+                    align="center" alt="AWS Certified Cloud Practitioner" height="110" width="110"
+                    src="https://images.credly.com/size/3100x3100/images/1d19edd7-6663-4286-9bb5-6f7a9cdc35aa/image.png">
+            </a>
+            <a href='https://www.credly.com/badges/785b299e-0983-4f80-b927-e77dff832d11'><img
+                    align="center" alt="AWS Certified Solutions Architect – Associate" height="110" width="110"
+                    src="https://images.credly.com/size/600x600/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
+            </a>
+            <a href='https://www.credly.com/badges/0e84cbcc-db81-455d-8f23-6f48f7cb078c?source=linked_in_profile'><img
+                    align="center" alt="AWS Certified Developer – Associate" height="110" width="110"
+                    src="https://images.credly.com/size/3100x3100/images/0e84cbcc-db81-455d-8f23-6f48f7cb078c/image.png">
+            </a>
+            <a href='https://www.credly.com/badges/de5a2ab3-cf5c-4c2d-8299-dfb21f9faaba'><img
+                    align="center" alt="AWS Certified SysOps Administrator – Associate" height="110" width="110"
+                    src="https://images.credly.com/size/3100x3100/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png">
+            </a>
+            <a href='https://www.credly.com/badges/aaa4bedf-ff01-4089-9d31-4b337da019ae'><img
+                    align="center" alt="AWS Certified Solutions Architect – Professional" height="110" width="110"
+                    src="https://images.credly.com/size/3100x3100/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png">
+            </a>
+            <a href='https://www.credly.com/badges/bc0787a9-a57d-4e94-b5b9-dd5b74697e8b'><img
+                    align="center" alt="AWS Certified Advanced Networking – Specialty" height="110" width="110"
+                    src="https://images.credly.com/size/3100x3100/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png">
+            </a>
+            <a href='https://www.credly.com/badges/31efa268-e5c6-47b2-a181-049e29f233df'><img
+                    align="center" alt="AWS Certified SAP on AWS – Specialty" height="110" width="110"
+                    src="https://images.credly.com/size/3100x3100/images/57bb7f6a-441f-4356-a2f1-7693227a475e/image.png">
+            </a>
+            <a href='https://www.credly.com/badges/66138047-d412-4f81-8dbb-a1442449d88a'><img
+                    align="center" alt="AWS Black Belt Pilot - Migration & Modernization" height="110" width="110"
+                    src="https://images.credly.com/images/78826894-559c-4df4-b471-80f0ef79a195/image.png">
+            </a>
 </div>
 
 <h3>Where to find me</h3>
