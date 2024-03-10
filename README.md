@@ -37,7 +37,7 @@
 <div class="row">
     <div class="coluna">
         <div style="display: flex"><br>
-          <a href='https://www.credly.com/badges/1d19edd7-6663-4286-9bb5-6f7a9cdc35aa?source=linked_in_profile'><img
+          <a href='https://www.credly.com/badges/1d19edd7-6663-4286-9bb5-6f7a9cdc35aa'><img
                     align="center" alt="AWS Certified Cloud Practitioner" height="110" width="110"
                     src="https://images.credly.com/size/3100x3100/images/1d19edd7-6663-4286-9bb5-6f7a9cdc35aa/image.png">
             </a>
@@ -45,7 +45,7 @@
                     align="center" alt="AWS Certified Solutions Architect – Associate" height="110" width="110"
                     src="https://images.credly.com/size/600x600/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
             </a>
-            <a href='https://www.credly.com/badges/0e84cbcc-db81-455d-8f23-6f48f7cb078c?source=linked_in_profile'><img
+            <a href='https://www.credly.com/badges/0e84cbcc-db81-455d-8f23-6f48f7cb078c'><img
                     align="center" alt="AWS Certified Developer – Associate" height="110" width="110"
                     src="https://images.credly.com/size/3100x3100/images/0e84cbcc-db81-455d-8f23-6f48f7cb078c/image.png">
             </a>
