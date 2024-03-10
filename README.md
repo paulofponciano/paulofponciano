@@ -39,7 +39,7 @@
         <div style="display: flex"><br>
           <a href='https://www.credly.com/badges/1d19edd7-6663-4286-9bb5-6f7a9cdc35aa'><img
                     align="center" alt="AWS Certified Cloud Practitioner" height="110" width="110"
-                    src="https://images.credly.com/size/3100x3100/images/1d19edd7-6663-4286-9bb5-6f7a9cdc35aa/image.png">
+                    src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png">
             </a>
             <a href='https://www.credly.com/badges/785b299e-0983-4f80-b927-e77dff832d11'><img
                     align="center" alt="AWS Certified Solutions Architect – Associate" height="110" width="110"
@@ -47,7 +47,7 @@
             </a>
             <a href='https://www.credly.com/badges/0e84cbcc-db81-455d-8f23-6f48f7cb078c'><img
                     align="center" alt="AWS Certified Developer – Associate" height="110" width="110"
-                    src="https://images.credly.com/size/3100x3100/images/0e84cbcc-db81-455d-8f23-6f48f7cb078c/image.png">
+                    src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png">
             </a>
             <a href='https://www.credly.com/badges/de5a2ab3-cf5c-4c2d-8299-dfb21f9faaba'><img
                     align="center" alt="AWS Certified SysOps Administrator – Associate" height="110" width="110"
