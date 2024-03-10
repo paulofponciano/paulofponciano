@@ -24,6 +24,12 @@
 <a href="https://www.crossplane.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/crossplane/artwork/blob/master/logo/icon.svg" alt="crossplane" width="40" height="40"/> </a>
 </p>
 
+<div style = "text-align: center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=paulofponciano&theme=onedark&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=paulofponciano&theme=onedark&hide_border=false"/>
+  <!--img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulofponciano&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"-->
+</div>
+
 <h3>Where to find me</h3>
 <p><a href="https://medium.com/@paulofponciano/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/paulofponciano" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
