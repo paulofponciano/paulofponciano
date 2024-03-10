@@ -1,3 +1,5 @@
+[![Website](https://img.shields.io/website?label=dev.to/paulofponciano&style=for-the-badge&url=http%3A%2F%2Fdev.to/paulofponciano)](https://dev.to/paulofponciano)
+
 <h1 align="left">Hi there 👋</h1>
 <h3 align="left">I'm a tech enthusiast who loves to learn about new things.</h3>
 
@@ -27,7 +29,7 @@
 <div style = "text-align: center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=paulofponciano&theme=onedark&hide_border=false&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=paulofponciano&theme=onedark&hide_border=false"/>
-  <!--img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulofponciano&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"-->
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulofponciano&show_icons=true&locale=en&layout=compact" alt="paulofponciano" />
 </div>
 
 <h3>Where to find me</h3>
