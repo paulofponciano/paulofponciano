@@ -30,6 +30,7 @@
 <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/> </a>
 <a href="https://www.crossplane.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/crossplane/artwork/blob/master/logo/icon.svg" alt="crossplane" width="40" height="40"/> </a>
+<a href="https://backstage.io/" target="_blank" rel="noreferrer"> <img src="https://backstage.io/logo_assets/svg/Icon_Gradient.svg" alt="backstage" width="40" height="40"/> </a>
 </p>
 
 <h3>🎖 Badges</h3>
