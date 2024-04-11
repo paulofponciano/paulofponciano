@@ -7,8 +7,8 @@
 
 <div style = "text-align: center">
   <!--<img height="170em" src="https://github-readme-stats.vercel.app/api?username=paulofponciano&theme=onedark&hide_border=false&include_all_commits=true&count_private=true"/>-->
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=paulofponciano&theme=onedark&hide_border=false"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulofponciano&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=false" alt="paulofponciano" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=paulofponciano&theme=transparent&hide_border=false"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulofponciano&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=false" alt="paulofponciano" />
 </div>
 
 <h3 align="left">🛠️ Languages and Tools</h3>
