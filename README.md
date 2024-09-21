@@ -39,7 +39,7 @@
     <div class="coluna">
         <div style="display: flex"><br>
             <a href='https://www.credly.com/badges/f37b15b4-4191-40fa-b3fd-de38abe2f9ea'><img
-                    align="center" alt="Certified Kubernetes Administrator" height="110" width="110"
+                    align="center" alt="Certified Kubernetes Administrator" height="120" width="120"
                     src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png">
             </a>
             <a href='https://www.credly.com/badges/1d19edd7-6663-4286-9bb5-6f7a9cdc35aa'><img
