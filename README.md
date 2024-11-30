@@ -62,6 +62,10 @@
                     align="center" alt="AWS Certified Solutions Architect – Professional" height="110" width="110"
                     src="https://images.credly.com/size/3100x3100/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png">
             </a>
+            <a href='https://www.credly.com/badges/aaa4bedf-ff01-4089-9d31-4b337da019ae'><img
+                    align="center" alt="AWS Certified DevOps Engineer – Professional" height="110" width="110"
+                    src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png">
+            </a>
             <a href='https://www.credly.com/badges/bc0787a9-a57d-4e94-b5b9-dd5b74697e8b'><img
                     align="center" alt="AWS Certified Advanced Networking – Specialty" height="110" width="110"
                     src="https://images.credly.com/size/3100x3100/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png">
