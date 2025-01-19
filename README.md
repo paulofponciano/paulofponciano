@@ -1,8 +1,5 @@
 [![Website](https://img.shields.io/website?label=dev.to/paulofponciano&style=for-the-badge&url=http%3A%2F%2Fdev.to/paulofponciano)](https://dev.to/paulofponciano)
 
-<h1 align="left">Hi there 👋</h1>
-<h3 align="left">I'm a tech enthusiast who loves to learn about new things.</h3>
-
 - 🌱 I’m currently learning **Kubernetes, serverless architectures and platform engineering**
 
 <div style = "text-align: center">
