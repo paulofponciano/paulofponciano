@@ -1,6 +1,6 @@
 [![Website](https://img.shields.io/website?label=dev.to/paulofponciano&style=for-the-badge&url=http%3A%2F%2Fdev.to/paulofponciano)](https://dev.to/paulofponciano)
 
-- 🌱 I’m currently learning **Kubernetes, serverless architectures and platform engineering**
+🌱 I’m currently learning **Kubernetes, serverless architectures and platform engineering**
 
 <h3 align="left">🛠️ Tools</h3>
 <p align="left">
