@@ -20,7 +20,7 @@
 <a href="https://backstage.io/" target="_blank" rel="noreferrer"> <img src="https://backstage.io/logo_assets/svg/Icon_Gradient.svg" alt="backstage" width="40" height="40"/> </a>
 </p>
 
-<h3>🎖 Badges</h3>
+🎖 Badges
 
 <div class="row">
     <div class="coluna">
@@ -67,7 +67,7 @@
             </a>
 </div>
 
-<h3>📫 Where to find me</h3>
+📫 Where to find me
 <p><a href="https://dev.to/paulofponciano/" target="_blank"><img alt="Devto" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/paulofponciano" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/paulofponciano/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
